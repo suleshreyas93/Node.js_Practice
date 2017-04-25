@@ -1,0 +1,22 @@
+body{
+    font-size : 25px;
+    font-family: 'Times New Roman', Times, serif;
+    background: lightyellow;
+    line-height: 30px;
+}
+header{
+
+    background: maroon;
+    padding : 35px;
+    border-bottom: 5px solid black;
+    margin-bottom: 15px;
+    text-align: center;
+    color: oldlace;
+}
+#container{
+
+    width : 90%;
+    margin : auto;
+    padding : 10px;
+    border : 5px solid black;
+}
